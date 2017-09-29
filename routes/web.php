@@ -54,5 +54,5 @@ Auth::routes();
 Route::get('/home', 'HomeController@index');
 
 Route::get('/comment',function(){
-
+	
 });
