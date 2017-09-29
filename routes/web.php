@@ -56,3 +56,7 @@ Route::get('/home', 'HomeController@index');
 Route::get('/comment',function(){
 
 });
+
+Route::get('a',function(){
+
+});
